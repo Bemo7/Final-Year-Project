@@ -1,0 +1,9 @@
+# Target Python: 3.12
+Django==5.2.19
+tensorflow==2.21.0
+pandas==3.0.1
+numpy==2.4.4
+matplotlib==3.10.9
+lxml>=6.1.1,<7
+html5lib==1.1
+scikit-learn==1.8.0
